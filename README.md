@@ -1,9 +1,18 @@
-## Hi there 👋
+# Hi 👋 I'm Yash Gupta
+
+💻 Backend Developer | Java | Spring Boot  
+🚀 Building scalable microservices  
+📍 India  
+
+I love building real world applications and learning new technologies.
+
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=codemasteryash&show_icons=true)
+![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=codemasteryash&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codemasteryash)
+## 💻 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codemasteryash&layout=compact&theme=radical)
 
 ### 🚀 Tech Stack
 ![Java](https://img.shields.io/badge/Java-orange)
