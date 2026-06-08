@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/codemasteryash/codemasteryash/main/assets/banner2.png" width="100%">
-</div>
-<div align="center">
 
 # 👋 Hey, I'm Yash Gupta
 
