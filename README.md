@@ -1,7 +1,5 @@
 <div align="center">
-
-<img src="./assets/banner2.png" width="100%" />
-
+  <img src="https://raw.githubusercontent.com/codemasteryash/codemasteryash/main/assets/banner2.png" width="100%">
 </div>
 <div align="center">
 
