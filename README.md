@@ -1,5 +1,10 @@
 <div align="center">
 
+<img src="./assets/banner.png" width="100%" />
+
+</div>
+<div align="center">
+
 # 👋 Hey, I'm Yash Gupta
 
 <h3>Backend Engineer • Java Developer • Spring Boot Developer • Full Stack Developer</h3>
