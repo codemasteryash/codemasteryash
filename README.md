@@ -128,11 +128,15 @@ My primary focus is **Java backend development**, building REST APIs, designing 
 
 ---
 
+
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img width="100%" src="https://github-profile-trophy-liard-delta.vercel.app/?username=codemasteryash&theme=onestar&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub profile trophies"/>
+
+<img src="./assets/profile-achievements.svg" width="100%" alt="GitHub profile achievements and milestones"/>
+
 </div>
+
 
 ---
 
