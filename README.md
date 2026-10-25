@@ -1,299 +1,171 @@
+# 👋 Yash Gupta
+### Backend Engineer · Java & Spring Boot Developer · Full Stack Engineer
 
-# 👋 Hey, I'm Yash Gupta
+<p align="left">
+  <a href="https://github.com/codemasteryash">
+    <img src="https://img.shields.io/badge/GitHub-codemasteryash-0A192F?style=for-the-badge&logo=github&logoColor=00D9FF" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/yash-gupta-60317630a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A192F?style=for-the-badge&logo=linkedin&logoColor=00D9FF" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:iamyashgupta55@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-0A192F?style=for-the-badge&logo=gmail&logoColor=00D9FF" alt="Email"/>
+  </a>
+</p>
 
-<h3>Backend Engineer • Java Developer • Spring Boot Developer • Full Stack Developer</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00D9FF&width=850&lines=Building+Reliable+Backend+Systems;Java+%7C+Spring+Boot+%7C+REST+APIs;From+Product+Ideas+to+Working+Software;Learning+by+Building+Real+Projects" alt="Animated developer tagline"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=00BFFF&center=true&vCenter=true&width=1000&lines=Building+Scalable+Microservices;Java+%7C+Spring+Boot+Developer;React.js+Frontend+Developer;Docker+%26+Kubernetes+Enthusiast;Kafka+%26+Redis+Explorer;Problem+Solver+and+Lifelong+Learner;Transforming+Ideas+Into+Real+Applications" />
+<!-- Keep this animated blue divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,50:1677FF,100:00D9FF&height=3&section=header" width="100%" alt="Blue divider"/>
 
-<br>
+## ⚡ A Little About Me
 
-</div>
+I'm a software developer from India who enjoys turning ideas into practical, reliable applications.
 
----
+My primary focus is **Java backend development**, building REST APIs, designing application architecture, and connecting backend systems with modern web interfaces. I also explore AI-powered applications and technologies that help solve real-world problems.
 
-# 🚀 About Me
-
-I'm **Yash Gupta**, a passionate software developer from India who enjoys designing and building scalable applications using modern backend and frontend technologies.
-
-I focus on creating maintainable, production-ready software systems with clean architecture and real-world usability.
-
-### What I Do
-
-* 🔹 Build scalable backend applications with Java & Spring Boot
-* 🔹 Design RESTful APIs and microservices
-* 🔹 Develop modern frontend applications using React.js
-* 🔹 Containerize and deploy applications using Docker
-* 🔹 Explore Kubernetes orchestration and distributed systems
-* 🔹 Work with Kafka and Redis for high-performance systems
-* 🔹 Solve Data Structures & Algorithms problems regularly
-
----
-
-# ⚡ Engineering Ecosystem
-
-## Backend Development
-
-* Java
-* Spring Boot
-* Spring Security
-* Spring Data JPA
-* Hibernate
-* REST APIs
-* Microservices Architecture
-
-## Frontend Development
-
-* React.js
-* JavaScript
-* HTML5
-* CSS3
-
-## Messaging & Caching
-
-* Apache Kafka
-* Redis
-
-## Databases
-
-* MySQL
-* PostgreSQL
-* MongoDB
-
-## DevOps & Deployment
-
-* Docker
-* Kubernetes
-* GitHub Actions
-
-## Tools
-
-* Git
-* GitHub
-* Maven
-* Postman
-* IntelliJ IDEA
+- 🔧 Building backend applications with Java and Spring Boot
+- 🏗️ Exploring microservices, security, and system design
+- 🌐 Developing full-stack applications with React
+- 🤖 Exploring AI integration and intelligent application workflows
+- 🧩 Improving problem-solving skills through DSA
+- 🚀 Interested in building software that is useful, maintainable, and scalable
 
 ---
 
-# 🌟 Featured Projects
+## 📌 Projects Worth Exploring
 
-## 🔹 Spring Boot 3 Microservices
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🧭 CareerCompass</h3>
+      <p>An AI-powered career platform designed to help users understand their skills, improve their resumes, explore relevant opportunities, and plan their career growth.</p>
+      <p><strong>Focus:</strong> AI integration · Career insights · Personalized roadmaps</p>
+      <p><code>Java</code> <code>Spring Boot</code> <code>AI</code></p>
+      <a href="https://github.com/codemasteryash/careercompass-backend">View Repository →</a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>⚖️ NyayaPath</h3>
+      <p>A legal-tech platform focused on helping users understand legal issues, explore relevant legal sources, and organize practical next steps.</p>
+      <p><strong>Focus:</strong> Legal research · AI-assisted analysis · Action planning</p>
+      <p><code>React</code> <code>Node.js</code> <code>FastAPI</code></p>
+      <a href="https://github.com/codemasteryash/nyayapath-legal-tech">View Repository →</a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>⚙️ Spring Boot 3 Microservices</h3>
+      <p>A hands-on microservices project exploring service separation, API routing, inter-service communication, and containerized deployment.</p>
+      <p><strong>Focus:</strong> Backend architecture · REST APIs · Deployment</p>
+      <p><code>Java</code> <code>Spring Boot</code> <code>Docker</code></p>
+      <a href="https://github.com/codemasteryash/spring-boot-3-microservices">View Repository →</a>
+    </td>
+  </tr>
+</table>
 
-Production-style microservices architecture built using Spring Boot 3.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,50:1677FF,100:00D9FF&height=3" width="100%" alt="Blue divider"/>
 
-### Key Highlights
+## 🛠️ My Technology Stack
 
-✅ API Gateway
-
-✅ Product Service
-
-✅ Inventory Service
-
-✅ Order Service
-
-✅ Notification Service
-
-✅ Dockerized Architecture
-
-✅ Kubernetes Manifests
-
-✅ MySQL Integration
-
-### Tech Stack
-
-`Java` `Spring Boot` `Microservices` `Docker` `Kubernetes` `MySQL`
-
-🔗 Repository
-
-https://github.com/codemasteryash/spring-boot-3-microservices
-
----
-
-## 🔹 SkillSwap
-
-A skill exchange platform enabling users to share knowledge, collaborate, and grow together.
-
-### Key Highlights
-
-✅ JWT Authentication
-
-✅ User Management
-
-✅ Skill Exchange System
-
-✅ Dashboard Analytics
-
-✅ Notifications
-
-✅ Transaction Management
-
-✅ REST APIs
-
-### Tech Stack
-
-`Spring Boot` `React.js` `JWT` `MySQL` `REST APIs`
-
-🔗 Repository
-
-https://github.com/codemasteryash/skillswap
-
----
-
-# 💻 Tech Stack
-
-### Languages
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)    ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Backend & Architecture</h3>
+      <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven&theme=dark" alt="Java, Spring, Hibernate and Maven"/>
+      <br/><br/>
+      <code>Spring Boot</code> <code>Spring Security</code>
+      <code>Spring Data JPA</code> <code>REST APIs</code>
+      <code>Microservices</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Frontend</h3>
+      <img src="https://skillicons.dev/icons?i=react,js,html,css&theme=dark" alt="React, JavaScript, HTML and CSS"/>
+      <br/><br/>
+      Building responsive interfaces and integrating them with backend services.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Databases & Infrastructure</h3>
+      <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,docker,kubernetes&theme=dark" alt="Databases, Docker and Kubernetes"/>
+      <br/><br/>
+      <code>PostgreSQL</code> <code>MySQL</code> <code>MongoDB</code>
+      <code>Redis</code> <code>Docker</code> <code>Kubernetes</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Development Tools</h3>
+      <img src="https://skillicons.dev/icons?i=git,github,idea,postman&theme=dark" alt="Git, GitHub, IntelliJ IDEA and Postman"/>
+      <br/><br/>
+      <code>Maven</code> <code>GitHub Actions</code>
+      <code>JUnit</code> <code>Mockito</code>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### Backend
-
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)    ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge\&logo=springsecurity\&logoColor=white)     ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge\&logo=hibernate)
-
----
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)    ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5)    ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3)
-
----
-
-### Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql)    ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql)    ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb)
-
----
-
-### Messaging & Caching
-
-![Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge\&logo=apachekafka)    ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis)
-
----
-
-### DevOps
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)    ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes)
-
----
-
-# 📊 GitHub Analytics
+## 📊 GitHub Overview
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=codemasteryash&show_icons=true&theme=tokyonight" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codemasteryash&layout=compact&theme=tokyonight" />
-
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=codemasteryash&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=E6EDF3&rank_icon=github" alt="GitHub statistics"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codemasteryash&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=E6EDF3" alt="Most used languages"/>
 </div>
-
-<br>
 
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=codemasteryash&theme=tokyonight" />
-
+  <img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=codemasteryash&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub contribution streak"/>
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,50:1677FF,100:00D9FF&height=3" width="100%" alt="Blue divider"/>
 
 ## 📈 Contribution Graph
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=codemasteryash&theme=react-dark)
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=codemasteryash&bg_color=0D1117&color=00D9FF&line=1677FF&point=FFFFFF&area=true&area_color=123B66&hide_border=true" alt="GitHub contribution graph"/>
+</div>
 
 ---
 
 ## 🏆 GitHub Achievements
 
 <div align="center">
-
-![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=codemasteryash&theme=onedark&no-frame=true&row=1&column=6)
-
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=codemasteryash&theme=onestar&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub profile trophies"/>
 </div>
 
 ---
 
-# 🧠 LeetCode Journey
+## 🎯 What I'm Working Towards
 
-### Profile
-
-🔗 https://leetcode.com/u/Yash_Gupta5/
-
-### Focus Areas
-
-* Data Structures
-* Algorithms
-* Dynamic Programming
-* Graphs
-* Trees
-* System Design Fundamentals
-
-### 2025 Goals
-
-🎯 Solve more medium and hard problems
-
-🎯 Improve contest performance
-
-🎯 Strengthen problem-solving speed
-
-🎯 Master advanced DSA patterns
+- Building better backend architectures and reliable APIs
+- Improving my understanding of distributed systems and microservices
+- Exploring AI-powered features in practical applications
+- Writing cleaner, more maintainable code
+- Strengthening DSA and software design fundamentals
+- Collaborating on projects that solve meaningful problems
 
 ---
 
-# 🎯 Current Learning
+## 🤝 Let's Connect
 
-```yaml
-Learning:
-  - Kubernetes
-  - Kafka
-  - Redis
-  - Advanced Microservices
-  - Distributed Systems
+<div align="center">
+  <a href="https://www.linkedin.com/in/yash-gupta-60317630a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/codemasteryash">
+    <img src="https://img.shields.io/badge/GitHub-Follow-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF" alt="GitHub"/>
+  </a>
+  <a href="mailto:iamyashgupta55@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Say_Hello-0D1117?style=for-the-badge&logo=gmail&logoColor=00D9FF" alt="Email"/>
+  </a>
+</div>
 
-Building:
-  - Scalable Backend Applications
-  - Real-world Full Stack Projects
-```
+<br/>
 
----
-
-# 🤝 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/yash-gupta-60317630a/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:iamyashgupta55@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://github.com/codemasteryash">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
-
----
-
-# 💭 How I Think
-
-```text
-Ship → Learn → Improve → Repeat
-
-Build real applications.
-Solve real problems.
-Keep learning.
-Stay consistent.
-```
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,50:1677FF,100:00D9FF&height=3" width="100%" alt="Blue divider"/>
 
 <div align="center">
 
-### "First make it work, then make it right, then make it scalable."
+### `Build → Learn → Improve → Repeat`
 
-⭐ Thanks for visiting my profile!
+*“First make it work, then make it right, then make it scalable.”*
+
+<sub>Thanks for stopping by. Always building, always learning.</sub>
 
 </div>
