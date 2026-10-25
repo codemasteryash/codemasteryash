@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="180" viewBox="0 0 900 180" role="img" aria-labelledby="title desc">
+<title id="title">codemasteryash GitHub achievements and milestones</title>
+<desc id="desc">GitHub profile metrics: public repositories, followers, contributions during the last year, and stars received.</desc>
+<rect width="100%" height="100%" rx="12" fill="#0D1117"/>
+<text x="8" y="22" fill="#E6EDF3" font-size="15" font-weight="700" font-family="Arial, sans-serif">GITHUB ACHIEVEMENTS &amp; MILESTONES</text>
+<rect x="8" y="36" width="212" height="128" rx="10" fill="#111B2A" stroke="#263B52" stroke-width="1"/>
+<rect x="8" y="36" width="212" height="3" rx="1.5" fill="#00D9FF"/>
+<text x="22" y="62" fill="#00D9FF" font-size="10" font-weight="700" font-family="Arial, sans-serif">01 / PUBLIC REPOSITORIES</text>
+<text x="22" y="102" fill="#F0F6FC" font-size="29" font-weight="700" font-family="Arial, sans-serif">29</text>
+<text x="22" y="130" fill="#9FB0C3" font-size="10" font-family="Arial, sans-serif">Projects shared on GitHub</text>
+<rect x="232" y="36" width="212" height="128" rx="10" fill="#111B2A" stroke="#263B52" stroke-width="1"/>
+<rect x="232" y="36" width="212" height="3" rx="1.5" fill="#4F9DFF"/>
+<text x="246" y="62" fill="#4F9DFF" font-size="10" font-weight="700" font-family="Arial, sans-serif">02 / FOLLOWERS</text>
+<text x="246" y="102" fill="#F0F6FC" font-size="29" font-weight="700" font-family="Arial, sans-serif">4</text>
+<text x="246" y="130" fill="#9FB0C3" font-size="10" font-family="Arial, sans-serif">Growing developer network</text>
+<rect x="456" y="36" width="212" height="128" rx="10" fill="#111B2A" stroke="#263B52" stroke-width="1"/>
+<rect x="456" y="36" width="212" height="3" rx="1.5" fill="#39D353"/>
+<text x="470" y="62" fill="#39D353" font-size="10" font-weight="700" font-family="Arial, sans-serif">03 / CONTRIBUTIONS</text>
+<text x="470" y="102" fill="#F0F6FC" font-size="29" font-weight="700" font-family="Arial, sans-serif">250</text>
+<text x="470" y="130" fill="#9FB0C3" font-size="10" font-family="Arial, sans-serif">Activity in the last year</text>
+<rect x="680" y="36" width="212" height="128" rx="10" fill="#111B2A" stroke="#263B52" stroke-width="1"/>
+<rect x="680" y="36" width="212" height="3" rx="1.5" fill="#C084FC"/>
+<text x="694" y="62" fill="#C084FC" font-size="10" font-weight="700" font-family="Arial, sans-serif">04 / STARS RECEIVED</text>
+<text x="694" y="102" fill="#F0F6FC" font-size="29" font-weight="700" font-family="Arial, sans-serif">3</text>
+<text x="694" y="130" fill="#9FB0C3" font-size="10" font-family="Arial, sans-serif">Across public repositories</text>
+</svg>
