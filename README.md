@@ -118,7 +118,7 @@ My primary focus is **Java backend development**, building REST APIs, designing 
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=codemasteryash&bg_color=0D1117&color=00D9FF&line=1677FF&point=FFFFFF&area=true&area_color=123B66&hide_border=true" alt="GitHub contribution graph"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=codemasteryash&bg_color=0D1117&color=00D9FF&line=1677FF&point=FFFFFF&area=true&hide_border=true" alt="GitHub contribution graph"/>
 </div>
 
 ---
@@ -126,7 +126,7 @@ My primary focus is **Java backend development**, building REST APIs, designing 
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=codemasteryash&theme=onestar&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub profile trophies"/>
+  <img width="100%" src="https://github-profile-trophy-liard-delta.vercel.app/?username=codemasteryash&theme=onestar&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub profile trophies"/>
 </div>
 
 ---
