@@ -197,17 +197,17 @@ https://github.com/codemasteryash/skillswap
 
 ---
 
-# 📈 Contribution Graph
+## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=codemasteryash&theme=tokyo-night" />
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=codemasteryash&theme=react-dark)
 
 ---
 
-# 🏆 GitHub Achievements
+## 🏆 GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=codemasteryash&theme=tokyonight&row=1&column=7" />
+![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=codemasteryash&theme=onedark&no-frame=true&row=1&column=6)
 
 </div>
 
