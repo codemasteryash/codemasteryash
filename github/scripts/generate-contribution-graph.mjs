@@ -81,7 +81,7 @@ const left = 36;
 const top = 32;
 const graphWidth = weeks.length * step;
 const width = left + graphWidth + 16;
-const height = 125;
+const height = 145;
 
 const colors = {
   NONE: "#161B22",
