@@ -37,6 +37,13 @@ jobs:
           GH_TOKEN: ${{ secrets.CONTRIBUTIONS_TOKEN }}
         run: node .github/scripts/generate-contribution-graph.mjs
 
+      
+      - name: Generate profile achievements
+        env:
+          GH_TOKEN: ${{ secrets.CONTRIBUTIONS_TOKEN }}
+        run: node .github/scripts/generate-profile-achievements.mjs
+
+
       - name: Commit updated graph
         run: |
           git config user.name "github-actions[bot]"
