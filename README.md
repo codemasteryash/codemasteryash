@@ -42,7 +42,7 @@ My primary focus is **Java backend development**, building REST APIs, designing 
       <p>An AI-powered career platform designed to help users understand their skills, improve their resumes, explore relevant opportunities, and plan their career growth.</p>
       <p><strong>Focus:</strong> AI integration · Career insights · Personalized roadmaps</p>
       <p><code>Java</code> <code>Spring Boot</code> <code>AI</code></p>
-      <a href="https://github.com/codemasteryash/careercompass-backend">View Repository →</a>
+      <a href="https://github.com/codemasteryash/CareerCompass">View Repository →</a>
     </td>
     <td width="33%" valign="top">
       <h3>⚖️ NyayaPath</h3>
